@@ -1,6 +1,6 @@
 # Hi,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Duzi
-- 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning State Management in Flutter.
+- 👀 I’m interested in Data Science machine learning and Deep Learning
+- 🌱 I’m currently learning TensorFlow.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 duzi.egwuibe@gmail.com
 <h3 align="left">You can Find me on LinkedIn</h3>
