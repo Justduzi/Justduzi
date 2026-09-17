@@ -1,10 +1,10 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Duzi
 
-### Software Developer | Backend Engineer | Data Science & Machine Learning
+### Software Developer | Backend Engineer | AI & Machine Learning
 
-I'm a software developer with experience building and maintaining enterprise applications, APIs, integrations, automation services, and financial technology solutions.
+I'm a software developer focused on building enterprise applications, APIs, integrations, automation services, and AI-enabled systems.
 
-My current work is primarily focused on **backend development with .NET**, while I also have a strong background and continued interest in **Data Science, Machine Learning, and AI**.
+My current work is primarily centered around **backend engineering with .NET**, alongside building **AI application layers** that integrate Large Language Models into real-world systems using tools such as **LangChain and LangGraph**.
 
 ### 👨‍💻 What I Work With
 
@@ -18,23 +18,39 @@ My current work is primarily focused on **backend development with .NET**, while
 * **React integration with .NET APIs**
 * **Python, Data Science & Machine Learning**
 
+### 🤖 AI & LLM Engineering
+
+* Building **AI application layers** on top of enterprise systems
+* **LangChain** for LLM application development and orchestration
+* **LangGraph** for stateful and multi-step AI workflows
+* LLM-powered APIs and backend integrations
+* Retrieval-Augmented Generation (**RAG**)
+* AI agents and tool-calling workflows
+* Prompt engineering and structured LLM outputs
+* Connecting LLMs to databases, APIs, and internal business systems
+* Exploring practical applications of **Generative AI in financial services**
+
 ### 🔨 What I'm Working On
 
 * Building and modernizing enterprise backend systems
 * Developing secure APIs and third-party integrations
 * Automating business processes using .NET Worker Services
+* Building AI-enabled backend services and intelligent workflows
 * Working on financial services, investigation, payment, and internal banking platforms
-* Exploring practical applications of **AI and Machine Learning in software engineering and financial systems**
+* Applying **LLMs, Machine Learning, and automation** to enterprise use cases
 
 ### 🧠 Interests
 
 I'm particularly interested in:
 
 * Backend & Distributed Systems
+* AI Engineering
+* LLM Applications
+* AI Agents & Agentic Workflows
+* LangChain & LangGraph
 * FinTech
 * Data Science
 * Machine Learning & Deep Learning
-* AI-assisted Software Development
 * System Architecture
 * Automation
 
@@ -42,7 +58,7 @@ I'm particularly interested in:
 
 I'm interested in collaborating on projects involving:
 
-**.NET • FinTech • Backend Engineering • Data Science • Machine Learning • AI**
+**.NET • Backend Engineering • AI Engineering • LLMs • LangChain • LangGraph • FinTech • Data Science • Machine Learning**
 
 ### 📫 Contact
 
@@ -58,4 +74,4 @@ I'm interested in collaborating on projects involving:
 
 ---
 
-> Building reliable software, automating complex processes, and exploring where software engineering meets data and AI.
+> Building reliable backend systems and intelligent AI layers that connect data, APIs, business workflows, and large language models.
